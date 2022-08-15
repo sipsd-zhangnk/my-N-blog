@@ -1,0 +1,23 @@
+{
+  "name": "my-n-blog",
+  "version": "1.0.0",
+  "description": "N-blog 的个人实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sipsd-zhangnk/my-N-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sipsd-zhangnk/my-N-blog/issues"
+  },
+  "homepage": "https://github.com/sipsd-zhangnk/my-N-blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
